@@ -1,0 +1,9 @@
+Server listening at port 2200
+a user connected
+a user connected
+{
+  chat_from: '1',
+  chat_to: '23',
+  chat_text: 'Test Message.',
+  chat_time: '12:47'
+}
